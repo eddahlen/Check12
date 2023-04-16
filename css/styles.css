@@ -30,3 +30,15 @@ nav a {
 nav a:hover {
   background-color: #555;
 }
+
+/* Content sections */
+.blah {
+  /* Add specific styles for the about me section */
+}
+
+.check {
+  /* Add specific styles for the employment section */
+}
+
+.onetwo {
+  /* Add specific
